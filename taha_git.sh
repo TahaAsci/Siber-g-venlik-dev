@@ -1,0 +1,9 @@
+#!/bin/bash
+# taha aşcı
+
+git init
+git add taha_git.sh
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/TahaAsci/Siber-g-venlik-dev.git
+git push -u origin main
